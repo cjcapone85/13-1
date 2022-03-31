@@ -6,6 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-width: number = 200;
-height: number = 200;
+width: number = 500;
+height: number = 500;
 }
